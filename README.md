@@ -40,10 +40,6 @@
   <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux" alt="Tools" />
 </p>
 
-<h3>🛠️ Tools & Platforms</h3>
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux" alt="Tools" />
-</p>
 
 ---
 
