@@ -18,22 +18,22 @@
 ---
 
 ### 🛠️ Tech Stack
+<h2 align="center">🚀 Tech Stack</h2>
 
-<h2🚀 Tech Stack</h2>
-
-<h3>💻 Languages</h3>
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,cpp,js" alt="Languages" />
 </p>
 
-<h3>🎨 Frontend</h3>
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,gsap" alt="Frontend" />
 </p>
 
-<h3>🧠 Backend & Database</h3>
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" alt="Backend & DB" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux" alt="Tools" />
 </p>
 
 <h3>🛠️ Tools & Platforms</h3>
