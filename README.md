@@ -3,6 +3,8 @@
 
 ---
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hey+There!+I'm+Aniket+Suryavanshi;MERN+Stack+Developer;Loves+DSA+and+Web+Tech&color=fff&center=true&size=22)
+
 ### 🌟 About Me
 
 - 🎓 Pursuing B.E. in Information Technology at Sinhgad Academy of Engineering (2022–2026)
