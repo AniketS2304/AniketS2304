@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+There!+I'm+Aniket+Suryavanshi;MERN+Stack+Developer;Loves+DSA+and+Web+Tech&color=fff&center=true&size=22" />
 </p>
 
-### 🌟 About Me
+## 🌟 About Me
 
 - 🎓 Pursuing B.E. in Information Technology at Sinhgad Academy of Engineering (2022–2026)
 - 💼 Aspiring Full Stack Developer with a strong grip on MERN stack
@@ -17,7 +17,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 <h2 align="center">🚀 Tech Stack</h2>
 
 <h3 align="center">💻 Languages</h3>
@@ -43,7 +43,7 @@
 
 ---
 
-### 🚀 Projects
+## 🚀 Projects
 
 🔹 [QuickPrint (In Progress)](https://github.com/AniketS2304) – Smart print queue system for college shops  
 🔹 [Task Manager](https://github.com/AniketS2304/Task-managment-project.git) – MERN-based task tracking app  
@@ -53,7 +53,7 @@
 
 ---
 
-### 🏅 Achievements & Roles
+## 🏅 Achievements & Roles
 
 - 🏆 Secured top ranks in internal coding contests  
 - 💡 Completed certified MERN stack courses  
@@ -62,7 +62,7 @@
 
 ---
 
-### 📫 Let’s Connect
+## 📫 Let’s Connect
 
 <h3 align="center">📫 Connect with me</h3>
 
@@ -95,7 +95,7 @@
 </p>
 
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AniketS2304&show_icons=true&theme=radical" width="400"/>
@@ -105,7 +105,7 @@
 ---
 
 
-### ⚡ Fun Facts
+## ⚡ Fun Facts
 
 - 🧠 I love debugging more than watching Netflix
 - 🕹️ Built a mini Jarvis for fun using Python + Voice Recognition
