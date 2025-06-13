@@ -45,11 +45,13 @@
 
 ## 🚀 Projects
 
-🔹 [QuickPrint (In Progress)](https://github.com/AniketS2304) – Smart print queue system for college shops  
-🔹 [Task Manager](https://github.com/AniketS2304/Task-managment-project.git) – MERN-based task tracking app  
-🔹 [Video Library](https://github.com/AniketS2304/video-library-app.git) – Organize & play local video courses  
-🔹 [Sinhgad Website](https://github.com/AniketS2304/Sinhgad-Website.git) – Dynamic PHP-MySQL staff appraisal portal  
-🔹 [Jarvis](https://github.com/AniketS2304/Jarvis_with_Python.git) – Voice-based AI assistant with NLP  
+| 💡 Project | 📝 Description |
+|-----------|----------------|
+| [🔧 QuickPrint (In Progress)](https://github.com/AniketS2304) | Smart print queue system for college shops |
+| [✅ Task Manager](https://github.com/AniketS2304/Task-managment-project.git) | MERN-based task tracking app with REST APIs |
+| [📽️ Video Library](https://github.com/AniketS2304/video-library-app.git) | Organize and play local video courses with a clean UI |
+| [🏫 Sinhgad Website](https://github.com/AniketS2304/Sinhgad-Website.git) | PHP-MySQL based dynamic portal for staff appraisal |
+| [🧠 Jarvis](https://github.com/AniketS2304/Jarvis_with_Python.git) | Voice-activated personal AI assistant using Python & NLP |
 
 ---
 
