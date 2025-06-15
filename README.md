@@ -59,14 +59,20 @@
 - 🧠 [**Jarvis**](https://github.com/AniketS2304/Jarvis_with_Python.git)  
   Voice-activated personal AI assistant using Python & NLP
 
+- 🎵 [**Spotify Clone**](https://github.com/AniketS2304/my_projects/tree/main/project_2)  
+  A simple clone of Spotify’s UI with basic music control functions
+
+- 🎮 [**Basic Games (Simon Says)**](https://github.com/AniketS2304/my_projects/tree/main/project_1)  
+  JavaScript-based memory game with a fun and interactive interface
+
 ---
 
 ## 🏅 Achievements & Roles
 
 - 🏆 Secured top ranks in internal coding contests  
 - 💡 Completed certified MERN stack courses  
-- 👨‍💻 Technical Head, ITSA | Member, Cypher Cell (Cybersecurity)  
-- 🎤 Conducted and participated in tech talks, NSS, webinars, and coding events  
+- 👨‍💻 Technical Head, ITSA | Member, Cypher Cell | Member, NSS 
+- 🎤 Participated in tech talks, webinars, and coding events  
 
 ---
 
