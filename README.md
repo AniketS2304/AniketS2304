@@ -46,7 +46,11 @@
 
 ## 💼 Experience
 
-**Full Stack Developer Intern – Scaleful Technologies**
+### 🧑‍💻 Software Engineer Intern – LM Software Solutions *(Current)*
+- Working on backend development and real-world application features
+- Contributing to API development and system workflows
+
+### 💻 Full Stack Developer Intern – Scaleful Technologies
 - Built REST API modules and backend features
 - Implemented authentication & database operations
 - Worked in structured Git-based workflow
