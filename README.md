@@ -16,7 +16,7 @@
 ## 🛠️ Tech Stack
 
 **Languages:** Python, JavaScript, Java  
-**Backend:** Django, Django REST Framework, Node.js  
+**Backend:** FastAPI, Django, Django REST Framework, Node.js  
 **Database:** MySQL, MongoDB  
 **Core:** REST APIs, Authentication, CRUD, DB Design  
 **Tools:** Git, Linux  
