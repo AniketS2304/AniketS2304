@@ -1,64 +1,50 @@
 <h1 align="center">Hey 👋, I'm Aniket Suryavanshi</h1>
-<h3 align="center">Backend Developer | GenAI Engineer | IT Student</h3>
+<h3 align="center">Full-Stack Developer | Python & GenAI Engineering</h3>
+
+<p align="center">
+Building production web applications, backend systems & AI-powered solutions 🚀
+</p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-* 🎓 Final-year **Information Technology** student at SPPU
-* 💻 Backend developer experienced with **FastAPI, Django & REST APIs**
-* 🤖 Exploring **Generative AI, LangChain, RAG & LLM-powered applications**
-* ⚙️ Building production features for real-world **multi-tenant SaaS applications**
-* 🧠 Solved **150+ DSA problems**
-* 🎯 Focused on becoming a strong **Backend + AI Engineer**
+* 🎓 Final-year **B.E. Information Technology** student at SPPU
+* 💻 Full-stack developer with a strong focus on **Python backend engineering**
+* ⚡ Working with **FastAPI, Django, React & PostgreSQL**
+* 🏗️ Contributing to a production **multi-tenant SaaS platform**
+* 🤖 Exploring **LangChain, RAG, LlamaIndex, pgVector & Agentic AI**
+* 🐳 Hands-on with **Docker, Linux & production deployments**
+* 🧠 Strong foundation in **DSA, OOP, DBMS & REST API design**
+* 🎯 Building toward **Full-Stack + GenAI Engineering**
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python, Java, JavaScript, SQL
-**Backend:** FastAPI, Django, Django REST Framework, Node.js, Express.js
-**GenAI:** LangChain, LLM APIs, RAG, Prompt Engineering, Pydantic
-**Databases:** PostgreSQL, MySQL, MongoDB
-**Frontend:** React.js, Tailwind CSS
-**DevOps & Tools:** Docker, Nginx, Git, GitHub, Linux
-**Core:** REST APIs, Authentication, CRUD, OOP, DBMS, Database Design
+### 💻 Languages
 
----
+**Python • JavaScript • Java • SQL**
 
-## 🤖 Currently Learning
+### ⚙️ Backend
 
-* 🦜 **LangChain** — LCEL, Runnables, Structured Outputs & LLM Workflows
-* 🔎 **RAG Pipelines** — Embeddings, Vector Stores & Retrieval
-* 🧠 **LlamaIndex** — Data Connectors, Document/Node Parsers & VectorStoreIndex
-* ⚡ Building production-ready **GenAI applications with FastAPI**
+**FastAPI • Django • Django REST Framework • Flask • Node.js • REST APIs • Celery**
 
----
+### 🎨 Frontend
 
-## 🚀 Featured Projects
+**React • Tailwind CSS • HTML • CSS • JavaScript**
 
-### 🌾 AgriWise — Smart Farmland Finder & Advisor
+### 🤖 GenAI / AI Engineering
 
-* Built a platform for intelligent farmland discovery and agricultural decision support
-* Integrated crop recommendations and ROI estimation
-* Worked with **Python, Django, React & Machine Learning**
+**LangChain • LlamaIndex • RAG Pipelines • pgVector • LLM APIs • Agentic AI • Prompt Engineering**
 
-### 💰 Expense Tracker — Django
+### 🗄️ Databases
 
-* Designed a relational database schema with secure authentication
-* Built transaction workflows with validation and balance tracking
-* Implemented structured backend logic and database operations
+**PostgreSQL • MySQL • MongoDB • Schema Design • Query Optimization**
 
-### 📋 Task Management App — MERN
+### 🛠️ Tools & DevOps
 
-* Developed REST APIs and complete CRUD workflows
-* Integrated React frontend with backend services
-* Worked with **Node.js, Express & MongoDB**
-
-### 📝 Text Formatter — Django
-
-* Built server-side processing for multiple text operations
-* Implemented request handling, input validation and backend workflows
+**Git • GitHub • Docker • Nginx • Linux • AWS (Basics) • Agile/Scrum**
 
 ---
 
@@ -66,49 +52,143 @@
 
 ### 🧑‍💻 Software Engineer Intern — LM Software Solutions
 
-**Apr 2026 – Present**
+**Apr 2026 – Present | Onsite**
 
-* Contributing to a production **payroll & attendance SaaS platform**
-* Developing backend APIs and workflows using **FastAPI & PostgreSQL**
-* Built bulk employee and attendance import pipelines with Excel/CSV parsing and validation
-* Worked on payroll calculations, attendance workflows and employee management features
-* Contributed to a **multi-tenant architecture** supporting multiple client deployments
-* Working with **React, Docker, PostgreSQL, Nginx & Git**
+* Shipped **35+ merged pull requests** to a production FastAPI/PostgreSQL payroll and attendance SaaS platform
+* Contributed to features across **attendance, leave, payroll and admin modules**
+* Built an end-to-end **WFH module** with check-in/checkout and admin approval workflows
+* Implemented rotational shift attendance and username-based authentication
+* Built an interactive **calendar-based holiday management system**
+* Developed bulk employee and attendance import pipelines with **Excel/CSV validation**
+* Worked with hundreds of records per batch while handling duplicate and invalid data
+* Wrote PostgreSQL utilities for restoring soft-deleted employee records across multiple client databases
+* Debugged payroll edge cases involving overtime, half-days, weekly-offs and attendance restrictions
+* Contributed to security, scalability and application-wide bug audits
+* Worked across **FastAPI, React, PostgreSQL, Docker and Git-based workflows**
 
-### 💻 Full Stack Developer Intern — Scaleful Technologies
+### 💻 Full Stack Web Developer Intern — Scaleful Technologies
 
-* Developed REST API modules and backend features
-* Implemented authentication and database operations
-* Worked with frontend/backend integration
-* Collaborated using structured **Git & GitHub workflows**
+**Dec 2024 – Jan 2025 | Remote**
+
+* Designed and integrated **5+ REST APIs** with MongoDB-backed data models
+* Implemented **JWT authentication** and CRUD workflows across multiple modules
+* Worked with the **MERN stack**
+* Collaborated using Git-based development workflows and sprint-based delivery
 
 ---
 
-## 🧠 Problem Solving
+## 🚀 Featured Projects
 
-* 💡 Solved **150+ DSA problems**
-* 🧩 Practicing Data Structures & Algorithms
-* 📚 Strong foundation in **OOP, DBMS, REST APIs & backend fundamentals**
+### 🌾 AgriWise — Smart Farmland Finder & Advisor
+
+**Python • Django • React • PostgreSQL • Tailwind CSS**
+
+AI-assisted agricultural platform designed to help users analyze and compare farmland.
+
+* Processes multiple data dimensions including **soil quality, rainfall, water availability, crop suitability and market trends**
+* Built map-based farmland discovery workflows
+* Developed crop recommendation and farmland comparison features
+* Implemented **ROI estimation** for data-driven crop planning
+* Architected backend APIs using **Django REST Framework**
+
+---
+
+### 🌦️ Django Weather App
+
+**Python • Django • REST API • Gunicorn • HTML/CSS/JS**
+
+* Built a real-time weather application using the **OpenWeatherMap API**
+* Implemented environment-based API key management
+* Added structured handling for API and user-input failures
+* Deployed the application using **Gunicorn** with production configuration
+
+---
+
+### 🤖 JARVIS Voice Assistant
+
+**Python • Speech Recognition • APIs • Automation**
+
+* Built a Python-based voice assistant for everyday automation
+* Implemented **15+ voice-controlled commands**
+* Integrated speech recognition and third-party APIs
+* Automated repetitive system and web-based tasks
+
+---
+
+### 📋 Task Manager — MERN
+
+**React • Node.js • Express • MongoDB • Tailwind CSS**
+
+* Built a full-stack task management application
+* Implemented complete **CRUD workflows**
+* Added task categories and status tracking
+* Integrated frontend components with REST APIs
+
+---
+
+## 🤖 Currently Learning
+
+```text
+LangChain
+├── LCEL & Runnables
+├── Structured Outputs
+├── RunnableBranch / Parallel / Passthrough
+└── LLM Application Workflows
+
+RAG
+├── Embeddings
+├── Vector Databases
+├── Retrieval
+├── pgVector
+└── RAG Pipelines
+
+LlamaIndex
+├── Data Connectors
+├── Document & Node Parsers
+├── VectorStoreIndex
+└── Query Engines
+
+AI Engineering
+├── LLM APIs
+├── Agentic AI
+├── Prompt Engineering
+└── FastAPI + AI Integration
+```
 
 ---
 
 ## 🎯 Current Focus
 
+| Area                   | Technologies                            |
+| ---------------------- | --------------------------------------- |
+| ⚙️ Backend Engineering | FastAPI • Django • PostgreSQL           |
+| 🎨 Full Stack          | React • REST APIs • Tailwind            |
+| 🤖 GenAI Engineering   | LangChain • RAG • LlamaIndex • pgVector |
+| 🐳 DevOps              | Docker • Nginx • Linux                  |
+| 🧠 Problem Solving     | DSA • OOP • DBMS                        |
+
+---
+
+## 📈 What I'm Working Toward
+
 ```text
-Backend Engineering  → FastAPI • Django • PostgreSQL
-Generative AI        → LangChain • RAG • LlamaIndex
-DevOps               → Docker • Nginx • Linux
-Problem Solving      → DSA • LeetCode
+Full-Stack Engineering
+        +
+Python Backend Engineering
+        +
+Generative AI
+        ↓
+Production AI-Powered Applications 🚀
 ```
 
 ---
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: https://www.linkedin.com/in/aniket-suryavanshi-8aab85235
-* 🐙 GitHub: https://github.com/AniketS2304
-* 🧠 LeetCode: https://leetcode.com/u/aniket_suryavanshi2304
+* 💼 **LinkedIn:** https://www.linkedin.com/in/aniket-suryavanshi-8aab85235
+* 🐙 **GitHub:** https://github.com/AniketS2304
+* 🧠 **LeetCode:** https://leetcode.com/u/aniket_suryavanshi2304
 
 ---
 
-<h3 align="center">⚡ Building backend systems today, intelligent systems tomorrow.</h3>
+<h3 align="center">⚡ Building full-stack systems today, intelligent systems tomorrow.</h3>
