@@ -1,194 +1,357 @@
-<h1 align="center">Hey 👋, I'm Aniket Suryavanshi</h1>
-<h3 align="center">Full-Stack Developer | Python & GenAI Engineering</h3>
+<div align="center">
 
-<p align="center">
-Building production web applications, backend systems & AI-powered solutions 🚀
-</p>
+# 👋 Hey, I'm Aniket Suryavanshi
+
+### Full-Stack Developer | Python Backend | GenAI Engineering
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%F0%9F%9A%80;Python+%7C+FastAPI+%7C+Django+%F0%9F%90%8D;React+%7C+PostgreSQL+%7C+Docker+%E2%9A%A1;Learning+LangChain+%26+RAG+%F0%9F%A4%96;Building+Production-Ready+Applications+%F0%9F%94%A5" alt="Typing SVG" />
+
+<br/>
+
+<a href="https://www.linkedin.com/in/aniket-suryavanshi-8aab85235">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/AniketS2304">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://leetcode.com/u/aniket_suryavanshi2304">
+  <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+
+</div>
 
 ---
 
-## 👨‍💻 About Me
+## 🧑‍💻 About Me
+
+```python
+class Aniket:
+    def __init__(self):
+        self.role = "Full-Stack Developer"
+        self.focus = ["Backend Engineering", "GenAI Engineering"]
+        self.languages = ["Python", "JavaScript", "Java", "SQL"]
+
+        self.backend = ["FastAPI", "Django", "Node.js"]
+        self.frontend = ["React", "Tailwind CSS"]
+        self.databases = ["PostgreSQL", "MySQL", "MongoDB"]
+
+        self.ai = ["LangChain", "RAG", "LlamaIndex", "pgVector"]
+        self.devops = ["Docker", "Nginx", "Linux"]
+
+    def currently_building(self):
+        return "Production-ready Full-Stack + AI Applications 🚀"
+```
 
 * 🎓 Final-year **B.E. Information Technology** student at SPPU
-* 💻 Full-stack developer with a strong focus on **Python backend engineering**
-* ⚡ Working with **FastAPI, Django, React & PostgreSQL**
+* 💻 Building with **FastAPI, Django, React & PostgreSQL**
 * 🏗️ Contributing to a production **multi-tenant SaaS platform**
 * 🤖 Exploring **LangChain, RAG, LlamaIndex, pgVector & Agentic AI**
-* 🐳 Hands-on with **Docker, Linux & production deployments**
+* 🐳 Working with **Docker, Nginx & Linux**
 * 🧠 Strong foundation in **DSA, OOP, DBMS & REST API design**
-* 🎯 Building toward **Full-Stack + GenAI Engineering**
+* 🎯 Goal → Build scalable **AI-powered software products**
 
 ---
 
-## 🛠️ Tech Stack
+# ⚡ Tech Arsenal
 
-### 💻 Languages
+<div align="center">
 
-**Python • JavaScript • Java • SQL**
+### 👨‍💻 Languages
+
+<img src="https://skillicons.dev/icons?i=python,java,js,ts" />
 
 ### ⚙️ Backend
 
-**FastAPI • Django • Django REST Framework • Flask • Node.js • REST APIs • Celery**
+<img src="https://skillicons.dev/icons?i=fastapi,django,nodejs,express,flask" />
 
 ### 🎨 Frontend
 
-**React • Tailwind CSS • HTML • CSS • JavaScript**
-
-### 🤖 GenAI / AI Engineering
-
-**LangChain • LlamaIndex • RAG Pipelines • pgVector • LLM APIs • Agentic AI • Prompt Engineering**
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite" />
 
 ### 🗄️ Databases
 
-**PostgreSQL • MySQL • MongoDB • Schema Design • Query Optimization**
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
 
-### 🛠️ Tools & DevOps
+### 🛠️ DevOps & Tools
 
-**Git • GitHub • Docker • Nginx • Linux • AWS (Basics) • Agile/Scrum**
+<img src="https://skillicons.dev/icons?i=docker,nginx,linux,git,github,aws,vscode" />
 
----
+</div>
 
-## 💼 Experience
+### 🤖 AI / GenAI
 
-### 🧑‍💻 Software Engineer Intern — LM Software Solutions
+<div align="center">
 
-**Apr 2026 – Present | Onsite**
+![LangChain](https://img.shields.io/badge/LangChain-LLM%20Apps-1C3C3C?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-Pipelines-blueviolet?style=for-the-badge)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-Retrieval-6F4CFF?style=for-the-badge)
+![pgVector](https://img.shields.io/badge/pgVector-Vector%20Search-336791?style=for-the-badge\&logo=postgresql)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-Learning-orange?style=for-the-badge)
 
-* Shipped **35+ merged pull requests** to a production FastAPI/PostgreSQL payroll and attendance SaaS platform
-* Contributed to features across **attendance, leave, payroll and admin modules**
-* Built an end-to-end **WFH module** with check-in/checkout and admin approval workflows
-* Implemented rotational shift attendance and username-based authentication
-* Built an interactive **calendar-based holiday management system**
-* Developed bulk employee and attendance import pipelines with **Excel/CSV validation**
-* Worked with hundreds of records per batch while handling duplicate and invalid data
-* Wrote PostgreSQL utilities for restoring soft-deleted employee records across multiple client databases
-* Debugged payroll edge cases involving overtime, half-days, weekly-offs and attendance restrictions
-* Contributed to security, scalability and application-wide bug audits
-* Worked across **FastAPI, React, PostgreSQL, Docker and Git-based workflows**
-
-### 💻 Full Stack Web Developer Intern — Scaleful Technologies
-
-**Dec 2024 – Jan 2025 | Remote**
-
-* Designed and integrated **5+ REST APIs** with MongoDB-backed data models
-* Implemented **JWT authentication** and CRUD workflows across multiple modules
-* Worked with the **MERN stack**
-* Collaborated using Git-based development workflows and sprint-based delivery
+</div>
 
 ---
 
-## 🚀 Featured Projects
+# 💼 Experience
 
-### 🌾 AgriWise — Smart Farmland Finder & Advisor
+## 🧑‍💻 Software Engineer Intern
 
-**Python • Django • React • PostgreSQL • Tailwind CSS**
+### LM Software Solutions · Apr 2026 – Present
 
-AI-assisted agricultural platform designed to help users analyze and compare farmland.
-
-* Processes multiple data dimensions including **soil quality, rainfall, water availability, crop suitability and market trends**
-* Built map-based farmland discovery workflows
-* Developed crop recommendation and farmland comparison features
-* Implemented **ROI estimation** for data-driven crop planning
-* Architected backend APIs using **Django REST Framework**
-
----
-
-### 🌦️ Django Weather App
-
-**Python • Django • REST API • Gunicorn • HTML/CSS/JS**
-
-* Built a real-time weather application using the **OpenWeatherMap API**
-* Implemented environment-based API key management
-* Added structured handling for API and user-input failures
-* Deployed the application using **Gunicorn** with production configuration
-
----
-
-### 🤖 JARVIS Voice Assistant
-
-**Python • Speech Recognition • APIs • Automation**
-
-* Built a Python-based voice assistant for everyday automation
-* Implemented **15+ voice-controlled commands**
-* Integrated speech recognition and third-party APIs
-* Automated repetitive system and web-based tasks
-
----
-
-### 📋 Task Manager — MERN
-
-**React • Node.js • Express • MongoDB • Tailwind CSS**
-
-* Built a full-stack task management application
-* Implemented complete **CRUD workflows**
-* Added task categories and status tracking
-* Integrated frontend components with REST APIs
-
----
-
-## 🤖 Currently Learning
+> Building and shipping features for a production **payroll & attendance SaaS platform**.
 
 ```text
-LangChain
-├── LCEL & Runnables
-├── Structured Outputs
-├── RunnableBranch / Parallel / Passthrough
-└── LLM Application Workflows
+⚡ FastAPI        → REST APIs & Business Logic
+🐘 PostgreSQL     → Queries, Data Recovery & Schema Work
+⚛️ React          → Dashboards & Application UI
+🐳 Docker         → Containerized Development
+🔀 Git/GitHub     → PR-Based Production Workflow
+```
 
-RAG
-├── Embeddings
-├── Vector Databases
-├── Retrieval
-├── pgVector
-└── RAG Pipelines
+### 🔥 Highlights
 
-LlamaIndex
-├── Data Connectors
-├── Document & Node Parsers
-├── VectorStoreIndex
-└── Query Engines
+* 🚀 Shipped **35+ merged pull requests**
+* 🏢 Contributing across **4+ client deployments**
+* 🏠 Built end-to-end **WFH workflows**
+* 📅 Developed calendar-based **holiday management**
+* 📊 Built bulk **Excel/CSV import pipelines**
+* 🗄️ Created PostgreSQL recovery utilities across multiple databases
+* 🧮 Resolved payroll and attendance calculation edge cases
+* 🔐 Contributed to security & scalability reviews
 
-AI Engineering
-├── LLM APIs
-├── Agentic AI
-├── Prompt Engineering
-└── FastAPI + AI Integration
+---
+
+## 💻 Full Stack Web Developer Intern
+
+### Scaleful Technologies · Dec 2024 – Jan 2025
+
+* ⚡ Designed and integrated **5+ REST APIs**
+* 🔐 Implemented **JWT authentication**
+* 🗄️ Built MongoDB-backed CRUD workflows
+* ⚛️ Worked with the **MERN stack**
+* 🔀 Used Git-based collaborative development workflows
+
+---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌾 AgriWise
+
+**Smart Farmland Finder & Advisor**
+
+`Django` `React` `PostgreSQL` `AI`
+
+AI-assisted platform for farmland discovery and agricultural decision support.
+
+**Features**
+
+* 🗺️ Map-based land discovery
+* 🌱 Crop recommendations
+* 💰 ROI estimation
+* 📊 Farmland comparison
+* 🌧️ Multi-factor agricultural analysis
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🌦️ Weather App
+
+**Real-Time Weather Platform**
+
+`Python` `Django` `REST API` `Gunicorn`
+
+Production-deployed weather application using external APIs.
+
+**Features**
+
+* 🌎 Real-time weather search
+* 🔑 Secure environment configuration
+* ⚠️ Structured error handling
+* 🚀 Production deployment
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 JARVIS
+
+**Python Voice Assistant**
+
+`Python` `Speech Recognition` `APIs`
+
+Voice-controlled automation assistant.
+
+**Features**
+
+* 🎙️ Speech recognition
+* ⚡ 15+ automation commands
+* 🌐 Third-party APIs
+* 🖥️ System automation
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📋 Task Manager
+
+**Full-Stack MERN Application**
+
+`React` `Node.js` `Express` `MongoDB`
+
+Full-stack productivity application.
+
+**Features**
+
+* 🔐 Authentication
+* 📝 CRUD operations
+* 🏷️ Task categories
+* 📊 Status tracking
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🤖 GenAI Journey
+
+```mermaid
+flowchart LR
+    A[LLM Fundamentals] --> B[LangChain]
+    B --> C[LCEL & Runnables]
+    C --> D[Embeddings]
+    D --> E[Vector Databases]
+    E --> F[RAG]
+    F --> G[LlamaIndex]
+    G --> H[Agents]
+    H --> I[Production AI Apps 🚀]
+```
+
+### 📚 Currently Exploring
+
+```text
+🤖 LangChain
+ ├── LCEL
+ ├── Runnables
+ ├── Structured Outputs
+ └── LLM Workflows
+
+🔎 RAG
+ ├── Embeddings
+ ├── Vector Stores
+ ├── Retrieval
+ └── pgVector
+
+🧠 LlamaIndex
+ ├── Data Connectors
+ ├── Document Parsing
+ ├── Node Parsing
+ ├── VectorStoreIndex
+ └── Query Engines
+
+⚡ Next
+ ├── Advanced RAG
+ ├── Agents
+ └── Production GenAI Systems
 ```
 
 ---
 
-## 🎯 Current Focus
+# 📊 GitHub Analytics
 
-| Area                   | Technologies                            |
-| ---------------------- | --------------------------------------- |
-| ⚙️ Backend Engineering | FastAPI • Django • PostgreSQL           |
-| 🎨 Full Stack          | React • REST APIs • Tailwind            |
-| 🤖 GenAI Engineering   | LangChain • RAG • LlamaIndex • pgVector |
-| 🐳 DevOps              | Docker • Nginx • Linux                  |
-| 🧠 Problem Solving     | DSA • OOP • DBMS                        |
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AniketS2304&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AniketS2304&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AniketS2304&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
-## 📈 What I'm Working Toward
+# 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/AniketS2304/AniketS2304/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AniketS2304&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+
+</div>
+
+---
+
+# 🎯 2026 Focus
 
 ```text
-Full-Stack Engineering
-        +
-Python Backend Engineering
-        +
-Generative AI
-        ↓
-Production AI-Powered Applications 🚀
+                ANIKET.exe
+
+       ┌───────────────────────┐
+       │   Backend Engineering │
+       │ FastAPI • Django • SQL│
+       └───────────┬───────────┘
+                   │
+                   ▼
+       ┌───────────────────────┐
+       │   Full-Stack Systems  │
+       │ React • APIs • Docker │
+       └───────────┬───────────┘
+                   │
+                   ▼
+       ┌───────────────────────┐
+       │     GenAI Systems     │
+       │ LangChain • RAG • LLM│
+       └───────────┬───────────┘
+                   │
+                   ▼
+            🚀 AI ENGINEERING
 ```
 
 ---
 
-## 📫 Connect With Me
+# 🤝 Let's Connect
 
-* 💼 **LinkedIn:** https://www.linkedin.com/in/aniket-suryavanshi-8aab85235
-* 🐙 **GitHub:** https://github.com/AniketS2304
-* 🧠 **LeetCode:** https://leetcode.com/u/aniket_suryavanshi2304
+<div align="center">
 
----
+### I'm interested in Full-Stack, Backend & GenAI opportunities 🚀
 
-<h3 align="center">⚡ Building full-stack systems today, intelligent systems tomorrow.</h3>
+<a href="https://www.linkedin.com/in/aniket-suryavanshi-8aab85235">
+<img src="https://img.shields.io/badge/LinkedIn-Aniket_Suryavanshi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/AniketS2304">
+<img src="https://img.shields.io/badge/GitHub-AniketS2304-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://leetcode.com/u/aniket_suryavanshi2304">
+<img src="https://img.shields.io/badge/LeetCode-Aniket_Suryavanshi-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<br/><br/>
+
+### ⚡ Code. Build. Ship. Learn. Repeat.
+
+![Profile Views](https://komarev.com/ghpvc/?username=AniketS2304\&style=for-the-badge)
+
+</div>
