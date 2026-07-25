@@ -284,11 +284,20 @@ flowchart LR
 
 # 🐍 Contribution Snake
 
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/AniketS2304/AniketS2304/output/github-contribution-grid-snake-dark.svg)
-
-</div>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/AniketS2304/AniketS2304/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/AniketS2304/AniketS2304/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/AniketS2304/AniketS2304/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 ---
 
