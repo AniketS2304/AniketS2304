@@ -18,6 +18,10 @@
   <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=AniketS2304&style=flat-square&label=PROFILE+VIEWS" />
+
 </div>
 
 ---
@@ -29,26 +33,55 @@ class Aniket:
     def __init__(self):
         self.role = "Full-Stack Developer"
         self.focus = ["Backend Engineering", "GenAI Engineering"]
-        self.languages = ["Python", "JavaScript", "Java", "SQL"]
 
-        self.backend = ["FastAPI", "Django", "Node.js"]
-        self.frontend = ["React", "Tailwind CSS"]
-        self.databases = ["PostgreSQL", "MySQL", "MongoDB"]
+        self.languages = [
+            "Python",
+            "JavaScript",
+            "Java",
+            "SQL"
+        ]
 
-        self.ai = ["LangChain", "RAG", "LlamaIndex", "pgVector"]
-        self.devops = ["Docker", "Nginx", "Linux"]
+        self.backend = [
+            "FastAPI",
+            "Django",
+            "Node.js"
+        ]
+
+        self.frontend = [
+            "React",
+            "Tailwind CSS"
+        ]
+
+        self.databases = [
+            "PostgreSQL",
+            "MySQL",
+            "MongoDB"
+        ]
+
+        self.ai = [
+            "LangChain",
+            "RAG",
+            "LlamaIndex",
+            "pgVector"
+        ]
+
+        self.devops = [
+            "Docker",
+            "Nginx",
+            "Linux"
+        ]
 
     def currently_building(self):
         return "Production-ready Full-Stack + AI Applications 🚀"
 ```
 
-* 🎓 Final-year **B.E. Information Technology** student at SPPU
-* 💻 Building with **FastAPI, Django, React & PostgreSQL**
-* 🏗️ Contributing to a production **multi-tenant SaaS platform**
-* 🤖 Exploring **LangChain, RAG, LlamaIndex, pgVector & Agentic AI**
-* 🐳 Working with **Docker, Nginx & Linux**
-* 🧠 Strong foundation in **DSA, OOP, DBMS & REST API design**
-* 🎯 Goal → Build scalable **AI-powered software products**
+- 🎓 Final-year **B.E. Information Technology** student at SPPU
+- 💻 Building with **FastAPI, Django, React & PostgreSQL**
+- 🏗️ Contributing to a production **multi-tenant SaaS platform**
+- 🤖 Exploring **LangChain, RAG, LlamaIndex, pgVector & Agentic AI**
+- 🐳 Working with **Docker, Nginx & Linux**
+- 🧠 Strong foundation in **DSA, OOP, DBMS & REST API design**
+- 🎯 Goal → Build scalable **AI-powered software products**
 
 ---
 
@@ -58,7 +91,7 @@ class Aniket:
 
 ### 👨‍💻 Languages
 
-<img src="https://skillicons.dev/icons?i=python,java,js,ts" />
+<img src="https://skillicons.dev/icons?i=python,java,js" />
 
 ### ⚙️ Backend
 
@@ -82,11 +115,11 @@ class Aniket:
 
 <div align="center">
 
-![LangChain](https://img.shields.io/badge/LangChain-LLM%20Apps-1C3C3C?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-Pipelines-blueviolet?style=for-the-badge)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-Retrieval-6F4CFF?style=for-the-badge)
-![pgVector](https://img.shields.io/badge/pgVector-Vector%20Search-336791?style=for-the-badge\&logo=postgresql)
-![Agentic AI](https://img.shields.io/badge/Agentic_AI-Learning-orange?style=for-the-badge)
+<img src="https://img.shields.io/badge/LangChain-LLM%20Applications-1C3C3C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/RAG-Pipelines-6C3CE1?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LlamaIndex-Retrieval-6F4CFF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/pgVector-Vector%20Search-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Agentic_AI-Learning-orange?style=for-the-badge" />
 
 </div>
 
@@ -110,14 +143,14 @@ class Aniket:
 
 ### 🔥 Highlights
 
-* 🚀 Shipped **35+ merged pull requests**
-* 🏢 Contributing across **4+ client deployments**
-* 🏠 Built end-to-end **WFH workflows**
-* 📅 Developed calendar-based **holiday management**
-* 📊 Built bulk **Excel/CSV import pipelines**
-* 🗄️ Created PostgreSQL recovery utilities across multiple databases
-* 🧮 Resolved payroll and attendance calculation edge cases
-* 🔐 Contributed to security & scalability reviews
+- 🚀 Shipped **35+ merged pull requests**
+- 🏢 Contributing across **4+ client deployments**
+- 🏠 Built end-to-end **WFH workflows**
+- 📅 Developed calendar-based **holiday management**
+- 📊 Built bulk **Excel/CSV import pipelines**
+- 🗄️ Created PostgreSQL recovery utilities across multiple databases
+- 🧮 Resolved payroll and attendance calculation edge cases
+- 🔐 Contributed to security & scalability reviews
 
 ---
 
@@ -125,11 +158,11 @@ class Aniket:
 
 ### Scaleful Technologies · Dec 2024 – Jan 2025
 
-* ⚡ Designed and integrated **5+ REST APIs**
-* 🔐 Implemented **JWT authentication**
-* 🗄️ Built MongoDB-backed CRUD workflows
-* ⚛️ Worked with the **MERN stack**
-* 🔀 Used Git-based collaborative development workflows
+- ⚡ Designed and integrated **5+ REST APIs**
+- 🔐 Implemented **JWT authentication**
+- 🗄️ Built MongoDB-backed CRUD workflows
+- ⚛️ Worked with the **MERN stack**
+- 🔀 Used Git-based collaborative development workflows
 
 ---
 
@@ -137,6 +170,7 @@ class Aniket:
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
 ### 🌾 AgriWise
@@ -149,11 +183,11 @@ AI-assisted platform for farmland discovery and agricultural decision support.
 
 **Features**
 
-* 🗺️ Map-based land discovery
-* 🌱 Crop recommendations
-* 💰 ROI estimation
-* 📊 Farmland comparison
-* 🌧️ Multi-factor agricultural analysis
+- 🗺️ Map-based land discovery
+- 🌱 Crop recommendations
+- 💰 ROI estimation
+- 📊 Farmland comparison
+- 🌧️ Multi-factor agricultural analysis
 
 </td>
 
@@ -169,15 +203,17 @@ Production-deployed weather application using external APIs.
 
 **Features**
 
-* 🌎 Real-time weather search
-* 🔑 Secure environment configuration
-* ⚠️ Structured error handling
-* 🚀 Production deployment
+- 🌎 Real-time weather search
+- 🔑 Secure environment configuration
+- ⚠️ Structured error handling
+- 🚀 Production deployment
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
 ### 🤖 JARVIS
@@ -190,10 +226,10 @@ Voice-controlled automation assistant.
 
 **Features**
 
-* 🎙️ Speech recognition
-* ⚡ 15+ automation commands
-* 🌐 Third-party APIs
-* 🖥️ System automation
+- 🎙️ Speech recognition
+- ⚡ 15+ automation commands
+- 🌐 Third-party APIs
+- 🖥️ System automation
 
 </td>
 
@@ -209,12 +245,13 @@ Full-stack productivity application.
 
 **Features**
 
-* 🔐 Authentication
-* 📝 CRUD operations
-* 🏷️ Task categories
-* 📊 Status tracking
+- 🔐 Authentication
+- 📝 CRUD operations
+- 🏷️ Task categories
+- 📊 Status tracking
 
 </td>
+
 </tr>
 </table>
 
@@ -234,7 +271,7 @@ flowchart LR
     H --> I[Production AI Apps 🚀]
 ```
 
-### 📚 Currently Exploring
+### 🧠 What I'm Exploring
 
 ```text
 🤖 LangChain
@@ -258,7 +295,7 @@ flowchart LR
 
 ⚡ Next
  ├── Advanced RAG
- ├── Agents
+ ├── AI Agents
  └── Production GenAI Systems
 ```
 
@@ -274,6 +311,8 @@ flowchart LR
 
 </div>
 
+<br/>
+
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AniketS2304&theme=tokyonight&hide_border=true" />
@@ -283,6 +322,8 @@ flowchart LR
 ---
 
 # 🐍 Contribution Snake
+
+<div align="center">
 
 <picture>
   <source
@@ -299,6 +340,8 @@ flowchart LR
   />
 </picture>
 
+</div>
+
 ---
 
 # 📈 Contribution Activity
@@ -311,31 +354,29 @@ flowchart LR
 
 ---
 
-# 🎯 2026 Focus
+# 🎯 Current Focus
+
+<div align="center">
 
 ```text
-                ANIKET.exe
+                 ANIKET.exe
 
-       ┌───────────────────────┐
-       │   Backend Engineering │
-       │ FastAPI • Django • SQL│
-       └───────────┬───────────┘
+          Backend Engineering
+     FastAPI • Django • PostgreSQL
                    │
                    ▼
-       ┌───────────────────────┐
-       │   Full-Stack Systems  │
-       │ React • APIs • Docker │
-       └───────────┬───────────┘
+          Full-Stack Systems
+       React • APIs • Docker
                    │
                    ▼
-       ┌───────────────────────┐
-       │     GenAI Systems     │
-       │ LangChain • RAG • LLM│
-       └───────────┬───────────┘
+            GenAI Systems
+    LangChain • RAG • LlamaIndex
                    │
                    ▼
-            🚀 AI ENGINEERING
+        Production AI Products 🚀
 ```
+
+</div>
 
 ---
 
@@ -343,24 +384,24 @@ flowchart LR
 
 <div align="center">
 
-### I'm interested in Full-Stack, Backend & GenAI opportunities 🚀
+### 💡 Interested in Full-Stack, Backend & GenAI opportunities
 
 <a href="https://www.linkedin.com/in/aniket-suryavanshi-8aab85235">
-<img src="https://img.shields.io/badge/LinkedIn-Aniket_Suryavanshi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Aniket_Suryavanshi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/AniketS2304">
-<img src="https://img.shields.io/badge/GitHub-AniketS2304-181717?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/GitHub-AniketS2304-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://leetcode.com/u/aniket_suryavanshi2304">
-<img src="https://img.shields.io/badge/LeetCode-Aniket_Suryavanshi-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LeetCode-Aniket_Suryavanshi-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
 <br/><br/>
 
 ### ⚡ Code. Build. Ship. Learn. Repeat.
 
-![Profile Views](https://komarev.com/ghpvc/?username=AniketS2304\&style=for-the-badge)
+<img src="https://komarev.com/ghpvc/?username=AniketS2304&style=for-the-badge" />
 
 </div>
