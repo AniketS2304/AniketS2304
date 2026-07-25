@@ -1,71 +1,114 @@
 <h1 align="center">Hey 👋, I'm Aniket Suryavanshi</h1>
-<h3 align="center">Backend Developer (Django) | IT Student | Problem Solver</h3>
+<h3 align="center">Backend Developer | GenAI Engineer | IT Student</h3>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Final-year IT student (SPPU)
-- 💻 Backend-focused developer specializing in **Django & REST APIs**
-- ⚙️ Built secure, database-driven applications with authentication & structured workflows
-- 🧠 Solved **150+ DSA problems**
-- 🎯 Goal: Become a **production-level backend engineer**
+* 🎓 Final-year **Information Technology** student at SPPU
+* 💻 Backend developer experienced with **FastAPI, Django & REST APIs**
+* 🤖 Exploring **Generative AI, LangChain, RAG & LLM-powered applications**
+* ⚙️ Building production features for real-world **multi-tenant SaaS applications**
+* 🧠 Solved **150+ DSA problems**
+* 🎯 Focused on becoming a strong **Backend + AI Engineer**
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python, JavaScript, Java  
-**Backend:** FastAPI, Django, Django REST Framework, Node.js  
-**Database:** MySQL, MongoDB  
-**Core:** REST APIs, Authentication, CRUD, DB Design  
-**Tools:** Git, Linux  
+**Languages:** Python, Java, JavaScript, SQL
+**Backend:** FastAPI, Django, Django REST Framework, Node.js, Express.js
+**GenAI:** LangChain, LLM APIs, RAG, Prompt Engineering, Pydantic
+**Databases:** PostgreSQL, MySQL, MongoDB
+**Frontend:** React.js, Tailwind CSS
+**DevOps & Tools:** Docker, Nginx, Git, GitHub, Linux
+**Core:** REST APIs, Authentication, CRUD, OOP, DBMS, Database Design
 
 ---
 
-## 🚀 Projects (Focused)
+## 🤖 Currently Learning
 
-### 💰 Expense Tracker (Django)
-- Designed relational DB schema with secure authentication
-- Built transaction system with validation & real-time balance updates
-- Implemented structured backend workflows
-
----
-
-### 📝 Text Formatter Web App (Django)
-- Built server-side processing for multiple text operations
-- Focused on input validation and request handling
+* 🦜 **LangChain** — LCEL, Runnables, Structured Outputs & LLM Workflows
+* 🔎 **RAG Pipelines** — Embeddings, Vector Stores & Retrieval
+* 🧠 **LlamaIndex** — Data Connectors, Document/Node Parsers & VectorStoreIndex
+* ⚡ Building production-ready **GenAI applications with FastAPI**
 
 ---
 
-### 📋 Task Manager (MERN)
-- Developed REST APIs and CRUD workflow
-- Integrated frontend with backend services
+## 🚀 Featured Projects
+
+### 🌾 AgriWise — Smart Farmland Finder & Advisor
+
+* Built a platform for intelligent farmland discovery and agricultural decision support
+* Integrated crop recommendations and ROI estimation
+* Worked with **Python, Django, React & Machine Learning**
+
+### 💰 Expense Tracker — Django
+
+* Designed a relational database schema with secure authentication
+* Built transaction workflows with validation and balance tracking
+* Implemented structured backend logic and database operations
+
+### 📋 Task Management App — MERN
+
+* Developed REST APIs and complete CRUD workflows
+* Integrated React frontend with backend services
+* Worked with **Node.js, Express & MongoDB**
+
+### 📝 Text Formatter — Django
+
+* Built server-side processing for multiple text operations
+* Implemented request handling, input validation and backend workflows
 
 ---
 
 ## 💼 Experience
 
-### 🧑‍💻 Software Engineer Intern – LM Software Solutions *(Current)*
-- Working on backend development and real-world application features
-- Contributing to API development and system workflows
+### 🧑‍💻 Software Engineer Intern — LM Software Solutions
 
-### 💻 Full Stack Developer Intern – Scaleful Technologies
-- Built REST API modules and backend features
-- Implemented authentication & database operations
-- Worked in structured Git-based workflow
+**Apr 2026 – Present**
+
+* Contributing to a production **payroll & attendance SaaS platform**
+* Developing backend APIs and workflows using **FastAPI & PostgreSQL**
+* Built bulk employee and attendance import pipelines with Excel/CSV parsing and validation
+* Worked on payroll calculations, attendance workflows and employee management features
+* Contributed to a **multi-tenant architecture** supporting multiple client deployments
+* Working with **React, Docker, PostgreSQL, Nginx & Git**
+
+### 💻 Full Stack Developer Intern — Scaleful Technologies
+
+* Developed REST API modules and backend features
+* Implemented authentication and database operations
+* Worked with frontend/backend integration
+* Collaborated using structured **Git & GitHub workflows**
 
 ---
 
 ## 🧠 Problem Solving
 
-- Solved **150+ DSA problems**
-- Strong in OOP, DBMS, and backend fundamentals
+* 💡 Solved **150+ DSA problems**
+* 🧩 Practicing Data Structures & Algorithms
+* 📚 Strong foundation in **OOP, DBMS, REST APIs & backend fundamentals**
 
 ---
 
-## 📫 Connect
+## 🎯 Current Focus
 
-- LinkedIn: https://www.linkedin.com/in/aniket-suryavanshi-8aab85235  
-- GitHub: https://github.com/AniketS2304  
-- LeetCode: https://leetcode.com/u/aniket_suryavanshi2304  
+```text
+Backend Engineering  → FastAPI • Django • PostgreSQL
+Generative AI        → LangChain • RAG • LlamaIndex
+DevOps               → Docker • Nginx • Linux
+Problem Solving      → DSA • LeetCode
+```
+
+---
+
+## 📫 Connect With Me
+
+* 💼 LinkedIn: https://www.linkedin.com/in/aniket-suryavanshi-8aab85235
+* 🐙 GitHub: https://github.com/AniketS2304
+* 🧠 LeetCode: https://leetcode.com/u/aniket_suryavanshi2304
+
+---
+
+<h3 align="center">⚡ Building backend systems today, intelligent systems tomorrow.</h3>
