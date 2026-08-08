@@ -176,28 +176,7 @@ Full-stack productivity application.
 </tr>
 </table>
 
----
-
-## GenAI Learning Path
-
-```mermaid
-flowchart LR
-    A[LLM Fundamentals] --> B[LangChain]
-    B --> C[LCEL & Runnables]
-    C --> D[Embeddings]
-    D --> E[Vector Databases]
-    E --> F[RAG]
-    F --> G[LlamaIndex]
-    G --> H[Agents]
-    H --> I[Production AI Apps]
-```
-
-**Currently exploring:** LangChain (LCEL, Runnables, structured outputs), RAG (embeddings, vector stores, retrieval, pgVector), and LlamaIndex (data connectors, document/node parsing, query engines).
-
-**Next up:** advanced RAG architectures, AI agents, and production GenAI systems.
-
----
-
+ 
 ## GitHub Analytics
 
 <div align="center">
